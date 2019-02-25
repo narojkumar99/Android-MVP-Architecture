@@ -15,7 +15,7 @@
 4. **utils**: Utility classes.
 
 #### Key points
-* Using base abstract classes to support MVP methodology while
+* Using base abstract classe to support MVP methodology while
   avoiding Activity leaks by releasing the view when it's no longer needed 
   ,BasePresenter repsonsable to destroy the view onDestroy().
   
